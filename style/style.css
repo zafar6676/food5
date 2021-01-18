@@ -1,0 +1,222 @@
+*
+:before
+:after {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	text-decoration: none;
+
+}
+
+body {
+	background-color: #fff8ef;
+	font-family: 'Poppins', sans-serif;
+}
+
+header {
+	padding-top: 20px;
+}
+
+.logo {
+	font-size: 42px;
+	font-weight: 600;
+	color: #feb446!important;
+}
+
+span {
+	color: #f27032;
+}
+
+.active {
+	color: #feb446!important;
+}
+.nav-link {
+	margin-right: 23px;
+}
+
+
+.nav-link {
+	font-size: 18px;
+}
+
+.main {
+	padding-top: 50px;
+}
+
+
+.main__img-png {
+	width: 505px;
+	height: 505px;
+}
+
+.delivery {
+	padding-top: 50px;
+}
+
+.delivery__item {
+	list-style: none;
+}
+
+.delivery__header {
+	font-size: 22px;
+	font-weight: 400;
+	margin-bottom: 15px;
+}
+
+.delivery__hr {
+	background-color: #ffad26;
+	width: 35px;
+	height: 6px;
+}
+
+
+.items {
+	padding-top: 50px;
+}
+
+.items__item {
+	width: 178px;
+	height: 55px;
+	background-color: #f4f9ff;
+	margin: 10px 5px 0!important;
+
+	/**/
+}
+
+.active2 {
+	background-color: #ef4c00;
+	color: white;
+}
+
+.items__header {
+	font-size: 14px;
+}
+
+
+.items__item-img {
+	margin-right: 10px;
+}
+
+
+.card {
+	width: 362px;
+	height: 143px;
+	border: 1px solid rgba(46, 71, 101, 0.2);
+}
+
+.menu {
+	margin: 60px 0;
+	padding-bottom: 60px;
+}
+
+.menu__img {
+	width: 432px;
+	height: 245px;
+}
+
+.menu__button {
+	margin-top: 30px;
+}
+
+.stars {
+	font-size: 22px;
+	color: #ef5107;
+}
+
+.review {
+	margin: 7px 0px 0px 20px;
+}
+
+.menu__love {
+	width: 23px;
+	height: 22px;
+}
+
+.menu-btn {
+	font-size: 13px;
+	margin-right: 10px;
+}
+
+.time {
+	width: 18px;
+	height: 18px;
+	margin-right: 5px;
+}
+
+.time-minutes {
+	font-size: 13px;
+	margin-bottom: 0!important;
+}
+
+.about-img {
+	width: 507px;
+	height: 507px;
+}
+
+.about__item {
+	list-style: none;
+}
+
+.clients__comment {
+	max-width: 987px;
+	box-shadow: 0 15px 20px rgba(118, 130, 183, 0.18);
+	background-color: #fcf7f1;
+	padding: 20px;
+
+}
+
+.clients__person {
+
+}
+
+.clients__quote {
+	font-size: 60px;
+	/*line-height: 186px;*/
+	margin-top: 20px;
+	color: #ef4c00;
+}
+
+.clients__text {
+	max-width: 750px;
+	height: 95px;
+	line-height: 32px;
+}
+
+.clients {
+	margin: 50px 0;
+}
+
+.footer {
+	background-color: #343434;
+	color: white!important;
+	padding: 30px 0;
+}
+.footer ul {
+	padding-left: 0!important;
+	margin-top: 15px;
+}
+
+.footer li {
+	text-decoration: none;
+	list-style: none;
+	padding-top: 5px;
+
+}
+
+.footer a {
+	text-decoration: none!important;
+	color: white!important;
+	font-size: 13px;
+
+}
+
+.footer h4 {
+	font-size: 22px;
+	color:#c88d2a;
+}
+
+
+
+.footer__item {
+	margin: 15px 0px 0px 40px;
+}
